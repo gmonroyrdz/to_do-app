@@ -1,0 +1,20 @@
+.todo-container{
+    width: 300px;
+    margin: 40px auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="text"]{
+    width: 70%;
+    padding: 4px;
+}
+
+button {
+    margin-left: 6px;
+}
+
+.done{
+    text-decoration: line-through;
+    color:gray;
+}
